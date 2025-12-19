@@ -42,3 +42,35 @@ Open to Junior Data Analyst / BI Analyst roles.
 Let’s connect: www.linkedin.com/in/jdavronov
 
 #DataAnalytics #PowerBI #SQL #OpenToWork
+
+## Project 2: Production Efficiency Dashboard (Anonymized Real Manufacturing Data)
+
+**Context**: Daily analysis of 100+ weaving machines in a textile manufacturing company.  
+**Objective**: Identify low-performing machines, wastage patterns, and improvement opportunities to reduce costs and downtime.
+
+**Key Insights**
+- 74% of machines operate below 100 points (efficiency benchmark)
+- Highest wastage and manufacturing defects concentrated in a small group of machines
+- Spare parts expenses and stoppages strongly correlate with low performance
+- Potential for 10–15% efficiency gain through targeted maintenance on bottom performers
+
+**Tools Used**
+- Power BI Desktop
+- DAX measures for custom scoring and KPIs
+- Interactive filters by period, loom group, and production year
+
+**Screenshots**
+
+![Overview](01-overview.png)
+
+![Wastage & Defects Bar Chart](02-bar-chart.png)
+
+![Share of Looms Donut](03-donut.png)
+
+![Detailed Table](04-table.png)
+
+![Performance Radar](05-radar.png)
+
+![Machine Ranking](06-ranking.png)
+
+[Download Full Report (PDF)](01. Full View.pdf)
