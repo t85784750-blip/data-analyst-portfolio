@@ -61,7 +61,7 @@ Let’s connect: www.linkedin.com/in/jdavronov
 
 **Screenshots**
 
-![Full View](01%20Full%20View.png)
+![Full View](01.%20Full%20View.png)
 
 ![Performance Radar](02.%20Radar.png)
 
@@ -74,8 +74,4 @@ Let’s connect: www.linkedin.com/in/jdavronov
 ![Looms Share Donut](06.%20Looms'%20share%20based%20on%20points.png)
 
 [Download Full Report (PDF)](01.%20Full%20View.pdf)
-(05. Key indicators.png)
 
-(06. Looms' share based on points.png)
-
-[Download Full Report (PDF)](01. Full View.pdf)
