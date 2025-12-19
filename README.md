@@ -61,16 +61,16 @@ Let’s connect: www.linkedin.com/in/jdavronov
 
 **Screenshots**
 
-![Overview](01-overview.png)
+![Overview](01 Full View.png)
 
-![Wastage & Defects Bar Chart](02-bar-chart.png)
+(02. Radar.png)
 
-![Share of Looms Donut](03-donut.png)
+(03. Waste and Defects.png)
 
-![Detailed Table](04-table.png)
+(04. Points based on indicators.png)
 
-![Performance Radar](05-radar.png)
+(05. Key indicators.png)
 
-![Machine Ranking](06-ranking.png)
+(06. Looms' share based on points.png)
 
 [Download Full Report (PDF)](01. Full View.pdf)
