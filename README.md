@@ -45,30 +45,35 @@ Let’s connect: www.linkedin.com/in/jdavronov
 
 ## Project 2: Production Efficiency Dashboard (Anonymized Real Manufacturing Data)
 
-**Context**: Daily analysis of 100+ weaving machines in a textile manufacturing company.  
-**Objective**: Identify low-performing machines, wastage patterns, and improvement opportunities to reduce costs and downtime.
+**Context**: Daily performance analysis of 100+ weaving machines in a textile manufacturing company.  
+**Objective**: Rank machines by custom scoring system, identify low performers, and highlight opportunities for efficiency gains and cost reduction.
 
 **Key Insights**
-- 74% of machines operate below 100 points (efficiency benchmark)
-- Highest wastage and manufacturing defects concentrated in a small group of machines
-- Spare parts expenses and stoppages strongly correlate with low performance
-- Potential for 10–15% efficiency gain through targeted maintenance on bottom performers
+- 74% of machines score below 100 points (efficiency benchmark)
+- Highest wastage and defects concentrated in a small group of underperforming machines
+- Strong correlation between spare parts expenses, stoppages, and low efficiency
+- Bottom performers offer 10–15% potential improvement through targeted maintenance
 
 **Tools Used**
 - Power BI Desktop
-- DAX measures for custom scoring and KPIs
-- Interactive filters by period, loom group, and production year
+- DAX for custom measures and scoring
+- Interactive slicers for period, loom group, and production year
 
 **Screenshots**
 
-![Overview](01 Full View.png)
+![Full View](01%20Full%20View.png)
 
-(02. Radar.png)
+![Performance Radar](02.%20Radar.png)
 
-(03. Waste and Defects.png)
+![Waste and Defects Bar Chart](03.%20Waste%20and%20Defects.png)
 
-(04. Points based on indicators.png)
+![Points Based on Indicators](04.%20Points%20based%20on%20indicators.png)
 
+![Key Indicators Table](05.%20Key%20indicators.png)
+
+![Looms Share Donut](06.%20Looms'%20share%20based%20on%20points.png)
+
+[Download Full Report (PDF)](01.%20Full%20View.pdf)
 (05. Key indicators.png)
 
 (06. Looms' share based on points.png)
