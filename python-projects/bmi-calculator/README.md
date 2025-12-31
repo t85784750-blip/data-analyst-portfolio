@@ -30,4 +30,4 @@ Future upgrades:
 Screenshot of it running:
 ![BMI Calculator Running](bmi-screenshot.png)
 
-Full code below (or in bmi_calculator.py)
+Full code below (or in bmi_calculator.ipynb)
